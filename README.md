@@ -17,6 +17,9 @@ Cybersecurity diploma graduate (May 2025) transitioning into a SOC Analyst role,
 ## Certifications In Progress
 - (add as you start, e.g. CompTIA Security+)
 
+## Lab Curriculum
+See [LAB-ROADMAP.md](./LAB-ROADMAP.md) for the full sequenced curriculum: reconnaissance → exploitation awareness → traffic/log analysis → SIEM operations → detection engineering → incident response → threat intel → cloud security.
+
 ## Repo Structure
 | Folder | Contents |
 |---|---|
